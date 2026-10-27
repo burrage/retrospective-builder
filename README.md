@@ -1,7 +1,7 @@
-# retrospective-agent
+# retrospective-builder
 Overview
 
-The **Retrospective Agent** is an automation tool for Agile Product Managers or Development Leads for creating focused and useful Retrospective documents in Google Docs from Jira data.
+The **Retrospective Builder** is an automation tool for Agile Product Managers or Development Leads for creating focused and useful Retrospective documents in Google Docs from Jira data.
 
 Retrospective Agent:
 
